@@ -9,10 +9,10 @@ var twitterKeys = new Twitter ({
 
 module.exports = twitterKeys;
 
-var Spotify = require('node-spotify-api');
-var spotifyKeys = new Spotify({
-  id: "46ed2ace80484feea6b9f537c9ba52e8",
-  secret: "6a850c75f09349c498c4b43828e51a79"
-});
+// var Spotify = require('node-spotify-api');
+// var spotifyKeys = new Spotify({
+//   id: "46ed2ace80484feea6b9f537c9ba52e8",
+//   secret: "6a850c75f09349c498c4b43828e51a79"
+// });
 
-module.exports = spotifyKeys;
+// module.exports = spotifyKeys;

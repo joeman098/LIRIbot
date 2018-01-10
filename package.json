@@ -2,7 +2,7 @@
   "name": "liribot",
   "version": "1.0.0",
   "description": "homeowrk",
-  "main": "index.js",
+  "main": "liri.js",
   "dependencies": {
     "inquirer": "^5.0.0",
     "node-spotify-api": "^1.0.7",
